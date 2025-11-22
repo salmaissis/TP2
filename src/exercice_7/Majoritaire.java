@@ -2,7 +2,7 @@ package exercice_7;
 
 public class Majoritaire {
 	public static void main(String[] args) {
-		System.out.println(majoritaire());
+		System.out.println("Le nombre majoritaire est: " + majoritaire());
 	}
 
 	public static int majoritaire() {
